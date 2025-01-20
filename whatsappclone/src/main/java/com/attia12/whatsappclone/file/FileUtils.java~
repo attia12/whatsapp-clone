@@ -1,0 +1,8 @@
+package com.attia12.whatsappclone.file;
+
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
+
+public class FileUtils {
+}
